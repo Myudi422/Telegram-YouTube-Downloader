@@ -1,4 +1,5 @@
 from pyrogram import Client
+from pyrogram import filters
 import config
 
 DOWNLOAD_LOCATION = "./Downloads"
