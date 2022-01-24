@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader","YoutubeMusic","Audio","Music","Video"
   ],
-  "repository": "https://github.com/phantomXhawk/YouTubeDownloader.git",
+  "repository": "https://github.com/Myudi422/YouTubeDownloader.git",
   "success_url": "https://t.me/musicvrtx",
-  "website": "https://github.com/phantomXhawk/YouTubeDownloader.git",
+  "website": "https://github.com/Myudi422/YouTubeDownloader.git",
   "env": {
 
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
@@ -16,7 +16,7 @@
         
   },
       "buildpacks": [
-        {"url": "https://github.com/phantomXhawk/heroku-buildpack-ffmpeg-latest.git"},
+        {"url": "https://github.com/Myudi422/heroku-buildpack-ffmpeg-latest.git"},
         {"url": "heroku/python"}
     ],
   "formation": {
